@@ -1,6 +1,10 @@
 # ami
 
 
-[!(image)[https://i.imgur.com/7Q1UMsd.gifv]]
+[!(image)[https://i.imgur.com/OXg7krk.png]]
 
-https://i.imgur.com/Y7v97o4.gifv
+
+
+!(image)[https://i.imgur.com/OXg7krk.png]
+
+https://i.imgur.com/OXg7krk.png
