@@ -1,6 +1,6 @@
 # ami
 
-[![feature viz](https://i.imgur.com/OXg7krk.png)
+![feature viz](https://i.imgur.com/OXg7krk.png)
 
 
-https://imgur.com/a/NRiMEbY
+![video](https://imgur.com/a/NRiMEbY)
