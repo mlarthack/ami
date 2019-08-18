@@ -1,4 +1,4 @@
 # ami
 
 
-!(image)[https://imgur.com/a/eDlkvel]
+!(image)[https://i.imgur.com/7Q1UMsd.mp4]
