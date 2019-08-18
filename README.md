@@ -1,4 +1,4 @@
 # ami
 
 
-[!(image)[https://i.imgur.com/7Q1UMsd.mp4]]
+[!(image)[https://i.imgur.com/7Q1UMsd.gifv]]
