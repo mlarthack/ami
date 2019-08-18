@@ -1,4 +1,4 @@
 # ami
-AMI
 
-https://imgur.com/a/eDlkvel
+
+!(image)[https://imgur.com/a/eDlkvel]
